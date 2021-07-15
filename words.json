@@ -1,0 +1,13 @@
+{
+  "WORDS": {
+    "EASY":[
+      "salut", "bonjour", "boire", "manger", "jeter", "jouer", "écume", "mer", "plage", "piano", "corne", "pelage", "froid", "cyans", "bleu", "crane", "ecran", "kiwis", "purée", "memo", "clavier", "souris", "robe", "pays", "espace", "chef", "membre", "discord", "twitter", "instagram", "snapchat", "bois", "salle", "privé", "public", "tout", "homme", "femme"
+    ],
+    "MEDIUM": [
+      "comment", "helloword", "dormir", "fortnite", "coucou", "joueur", "tenis", "football", "basketball", "vacances", "guitare", "trompette", "banane", "insinuer", "docteur", "alchimiste", "augmenter", "largeur", "longueur", "hyperespace", "administrateur", "moderateur", "whatsapp", "information", "technologie", "pouvoir", "massage"
+    ],
+    "HARD": [
+      "Interdépartementalisation", "Déconstitutionnaliseraient", "adaptables", "adrenaline", "adolescent", "affolement", "excitation", "détartrant", "garagistes", "anesthésiste", "alimentation", "ordinateur", "unité centrale", "grand père", "arc-en-ciel", "contre-chant", "porte-avions", "passe-droit", "espaces-temps", "anticonstitutionnellement"
+    ]
+  }
+}
