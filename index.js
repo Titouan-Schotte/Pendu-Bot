@@ -76,4 +76,4 @@ bot.on('clickButton', async button => {
 //     console.log('Caught exception: ' + err);
 // });
 
-bot.login('ODY0ODQ4MDE4NjgyMjgyMDA0.YO7aew.NonXOPdoKEqWYJ5ZdkrHV79pcVE')
+bot.login('your token')
