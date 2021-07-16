@@ -14,8 +14,8 @@ const delay = ms => new Promise(resolve => setTimeout(resolve, ms))
 bot.on('ready', () => {
     console.log("Logged as " +bot.user.tag)
     const statuses = [
-        'p#new to play',
-        'p#help for help'
+        config.PREFIX + 'new to play',
+        config.PREFIX + 'help for help'
     ]
 
     let i = 0
@@ -72,8 +72,8 @@ bot.on('clickButton', async button => {
             break;
     }
 })
-// process.on('uncaughtException', function(err) {
-//     console.log('Caught exception: ' + err);
-// });
+process.on('uncaughtException', function(err) {
+    console.log('Caught exception: ' + err);
+});
 
-bot.login('your token')
+bot.login(config.TOKEN)
